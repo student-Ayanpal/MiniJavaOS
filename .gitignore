@@ -1,0 +1,10 @@
+
+*.class
+bin/
+out/
+
+.vscode/
+
+javafx/
+
+.DS_Store
